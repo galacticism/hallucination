@@ -223,9 +223,9 @@ np.random.seed(42)
 w = np.zeros(X_train.shape[1])
 b = 0
 learning_rate = 0.01
-epochs = 2000
+n_trials = 2000
 
-for epoch in range(epochs):
+for n_trial in range(n_trials):
     z = np.dot(X_train, w) + b
     p = sigmoid(z)
     dw = np.dot(X_train.T, (p - y_train)) / len(y_train)
