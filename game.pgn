@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "MrValkire"]
+[Black "Dr_troll"]
+[Result "1/2-1/2"]
+[CurrentPosition "8/5p2/8/7p/5p1P/5P2/4r1PK/R4k2 b - - 10 75"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Normal-Line...6.Nxc6-bxc6-7.O-O-d5"]
+[UTCDate "2025.05.31"]
+[UTCTime "21:42:28"]
+[WhiteElo "2590"]
+[BlackElo "2700"]
+[TimeControl "180"]
+[Termination "Game drawn by repetition"]
+[StartTime "21:42:28"]
+[EndDate "2025.05.31"]
+[EndTime "21:47:56"]
+[Link "https://www.chess.com/analysis/game/live/139077258178?tab=analysis"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/188030129.7a765519.50x50o.28c764cf3860.jpg"]
+[WhiteCountry "3"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/282752873.c0439010.50x50o.d4e7ea1f8a55.png"]
+[BlackCountry "2"]
+[BlackTitle "IM"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+exd5 cxd5 9. c4 dxc4 10. Bxc4 Qxd1 11. Rxd1 Bd7 12. Nc3 Bb4 13. Be3 O-O 14. Bb3
+a5 15. a3 Bxc3 16. bxc3 a4 $6 17. Ba2 Rfc8 18. Bd4 $6 Bb5 19. f3 $6 Bc4 20. Bxc4
+Rxc4 21. Bxf6 gxf6 22. Rd3 Rb8 23. Rd4 Rxd4 24. cxd4 Rb3 25. Rd1 Rxa3 26. d5 $1
+exd5 27. Rxd5 Ra2 28. Ra5 a3 29. h4 Kg7 30. Kh2 Kg6 31. Kg3 h5 32. Ra8 Ra1 33.
+Ra6 Kf5 34. Ra5+ Kg6 35. Ra6 a2 36. Ra5 Kg7 37. Ra8 Kh7 38. Ra7 Kg6 39. Ra5 Kh6
+40. Ra6 Kg7 41. Ra8 f5 42. Ra6 Kf8 43. Ra7 Ke8 44. Kh2 $6 Kd8 $6 45. Kg3 Kc8 46.
+Kh2 Kb8 47. Ra3 Kb7 48. Ra4 Kc6 49. Ra8 Kd5 50. Rd8+ Ke5 51. Ra8 Kf4 52. Ra4+
+Ke3 53. Ra3+ Kf2 54. Ra8 f4 55. Ra3 Kf1 56. Ra8 Ke1 57. Re8+ Kf2 58. Ra8 $1 Ke3
+59. Re8+ Kd4 60. Rd8+ Ke5 61. Ra8 Kd5 62. Rd8+ Kc4 63. Ra8 Kb3 64. Rb8+ $1 Kc2 65.
+Rc8+ Kd2 66. Rd8+ Ke3 67. Ra8 Kf2 68. Ra3 Kf1 69. Ra4 Re1 70. Rxa2 Re2 71. Ra1+
+Kf2 72. Ra4 Kf1 73. Ra1+ Kf2 74. Ra4 Kf1 75. Ra1+ 1/2-1/2
